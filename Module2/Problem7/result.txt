@@ -1,0 +1,50 @@
+Cutoff = 6 \n
+9893ms
+6278ms
+6271ms
+6174ms
+6477ms
+6156ms
+Cutoff = 10 /n
+6143ms
+6024ms
+6087ms
+6064ms
+6082ms
+5987ms
+6003ms
+6021ms
+6006ms
+6161ms
+5947ms
+Cutoff = 11 /n
+6000ms
+8477ms
+6236ms
+6186ms
+6109ms
+6074ms
+6157ms
+6019ms
+6108ms
+6062ms
+6164ms
+Cutoff = 12 /n
+6111ms
+6163ms
+6091ms
+6152ms
+6011ms
+6034ms
+7885ms
+8677ms
+6599ms
+6328ms
+6343ms
+Cutoff = 13 /n
+6343ms
+6583ms
+6452ms
+6143ms
+6031ms
+5805ms
